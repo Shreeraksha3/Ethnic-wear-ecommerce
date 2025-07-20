@@ -1,2 +1,2 @@
 ﻿# Ethnic-wear-ecommerce
-https://zesty-tiramisu-f28d48.netlify.app/
+https://aarvyas-collections.netlify.app/
