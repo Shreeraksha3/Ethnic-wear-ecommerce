@@ -6,17 +6,13 @@
 
 <p align="center">
   <a href="https://aarvyas-collections.netlify.app/" target="_blank">🌐 Live Demo</a>
-  &nbsp;|&nbsp;
-  <a href="https://github.com/yourusername/aarvyas-collections/issues">🐞 Report Bug</a>
-  &nbsp;|&nbsp;
-  <a href="https://github.com/yourusername/aarvyas-collections/pulls">💡 Request Feature</a>
 </p>
 
 ---
 
 ## ✨ Features
 
-| Icon | Feature |
+|      | Feature |
 |------|---------|
 | 🛍 | **Featured Collections** – Highlighted categories like Banarasi Silk, Bridal Lehengas, Kanjivaram, and Anarkali Suits |
 | 🆕 | **New Arrivals** – Fresh additions with ratings, prices, and “New” tags |
@@ -25,14 +21,6 @@
 | 📩 | **Newsletter Subscription** – Stay updated with latest collections and offers |
 | 📱 | **Responsive Design** – Optimized for mobile, tablet, and desktop |
 | 💳 | **E-commerce Ready** – Product cards with pricing and wishlist/lock icons |
-
----
-
-## 📸 Preview
-
-<p align="center">
-  <img src="https://github.com/yourusername/aarvyas-collections/raw/main/preview.png" alt="Aarvya's Collections Screenshot" width="80%">
-</p>
 
 ---
 
@@ -56,13 +44,10 @@
 
 ---
 
-## 📜 License
 
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for more details.
-
----
 
 <p align="center">
   Made with ❤️ for fashion lovers worldwide
 </p>
+
 
